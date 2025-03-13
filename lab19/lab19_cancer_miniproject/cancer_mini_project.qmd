@@ -1,0 +1,42 @@
+---
+title: "Lab 19: Mini Project- Cancer Mutation Analysis"
+author: Nhi To (A18053310
+format: html
+---
+
+```{r}
+library(bio3d)
+```
+
+```{r}
+sequence <- read.fasta("A18053310_mutant_seq.fa")
+```
+
+```{r}
+score <- conserv(sequence)
+score
+```
+
+```{r}
+positions <- which(score !=1)
+positions
+```
+
+```{r}
+residues <- sequence$ali[, positions]
+residues
+```
+
+
+```{r}
+paste(residues[,1], positions, residues [,2], sep="")
+```
+
+Read in AlphaFold3 CIF model and export a PDB for FTMAP
+
+
+
+
+
+
+
