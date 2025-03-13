@@ -8,6 +8,28 @@ My class work from W25 [BIMM143](https://bioboot.github.io/bimm143_W25/schedule/
 
 - Class06 [R functions]()
 
-- Class07 [Introcution to machine learning for Bionformatics 1] ()
+- Class07 [Introcution to machine learning for Bionformatics 1]()
 
-- Class 08 [Unsupervised Learning Mini-project] ()
+- Class08 [Unsupervised Learning Mini-project]()
+
+- Class09 [Halloween Candy Mini-Project]()
+
+- Class 10 [Structural Bioinformatics (pt1)]()
+
+- Class11 [Structural Bioinformatics (pt2 AlphaFold]()
+
+- Class12 [Genome informatics and high throughput sequencing]()
+
+- Class13 [Transcriptomics, RNA-Seq analaysis , and the interpretation of gene lists]()
+
+- Class14 [RNA-Seq mini project]()
+
+- Class15 [Hands-on with Git and GitHub]()
+
+- Class16 [Essential UNIX for bioinformatics]()
+
+- Class17 [Analyzing sequencing data in the cloud]()
+
+- Class18 [Investigating pertusis resurgence mini project]()
+
+- Class19 [Mini Project: Cancer Mutation Analysis]()
